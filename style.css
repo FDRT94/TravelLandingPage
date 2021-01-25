@@ -107,9 +107,10 @@
 
 .text p {
 	font-size: 1.1em;
-	margin: 20px;
+	margin: 20px 0;
 	font-weight: 400;
 	max-width: 700px;
+	color:#fff;
 }
 
 .text a {
